@@ -7,4 +7,4 @@ int main() {
 	double Y;
 	cout << " * ******While * ******* \n" << endl;
 	while (x <= 5.5) {
-		Y = (x * x * x*x) + 3 * (pow(sin(x), 2)) - 3;
+	
